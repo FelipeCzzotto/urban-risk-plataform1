@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Urban Risk",
+    "slug": "urban-risk-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": ["expo-notifications"]
+  }
+}
